@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Chepuri Gopi Krishna
+- 👋 Hi, I’m Chepuri Gopi Krishna
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 Currently Learning: Machine Learning, with a focus on model development and experimentation.
 - 💞️ I’m looking to collaborate on open-source projects related to AI/ML, and any research initiatives in these fields
